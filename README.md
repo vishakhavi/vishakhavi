@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently graduate student at Northeastern University
-- 🌱 I’m currently working on building skills as a Full stack developer.
+- 🌱 I’m working on building skills as a Full stack developer.
 <br>
 ## Connect with me
 
