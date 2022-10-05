@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently graduate student at Northeastern University
-- 🌱 I’m working on building skills as a Full stack developer, devOps and backend engineer
+- 🔭 I’m currently graduate student at Northeastern University available from Jan 2023
+- 🌱 Worked as a Full stack developer, SDE, backend engineer at Wayfair LLC, NTT DATA Services, TCS and Infosys
 <br>
 ## Connect with me
 
