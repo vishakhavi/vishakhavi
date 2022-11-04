@@ -7,7 +7,7 @@
 🌱 Worked as a Full stack developer, SDE, backend engineer at Wayfair LLC, NTT DATA Services, TCS and Infosys
 
 
-Technologies I've been learning and using so far (alphabetical order) :
+Technologies I've been learning and using so far:
 
 - Programming languages : <br />
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/#web_development)
